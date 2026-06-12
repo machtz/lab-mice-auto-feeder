@@ -18,7 +18,7 @@ All source and print files are available in the 'hardware/mechanical/' directory
 * 'cylindre_exterieur.stl': Main housing structure featuring the feeding window.
 * 'tambour.stl' and 'anneau_tambour.stl': Internal drum holding the food and steel bars and the ring that holds the bars in place into the drum.
 * 'bouchon_haut.stl' and 'bouchon_bas.stl': Enclosures for the main cylinder, with cavities to place O-rings.
-* 'pièce_partie_electronique.stl': Internal fixture for components located beneath the drum.
+* 'piece_partie_electronique.stl': Internal fixture for components located beneath the drum, central hole for the servo, two placements on both sides of it for batteries and one forthe RTC Module.
 
  ### Protection Materials and Fasteners
  * **Brass sheets:** Applied to the external cylinder and the outer wall of the drum to prevent the mice from chewing through the PLA plastic.
