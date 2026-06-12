@@ -15,10 +15,10 @@ The system operates using a physical rotary barrier mechanism:
 
 ### 3D Printed Parts (PLA)
 All source and print files are available in the 'hardware/mechanical/' directory.
-* 'external_cylinder.stl': Main housing structure featuring the feeding window.
-* 'rotating_drum.stl' and 'bar_retaining_ring.stl': Internal drum holding the food and steel bars and the ring that holds the bars in place into the drum.
-* 'top_cap.stl' and 'bottom_cap.stl': Enclosures for the main cylinder, with cavities to place O-rings.
-* 'electronics_mount.stl': Internal fixtures for components located beneath the drum.
+* 'cylindre_exterieur.stl': Main housing structure featuring the feeding window.
+* 'tambour.stl' and 'anneau_tambour.stl': Internal drum holding the food and steel bars and the ring that holds the bars in place into the drum.
+* 'bouchon_haut.stl' and 'bouchon_bas.stl': Enclosures for the main cylinder, with cavities to place O-rings.
+* 'pièce_partie_electronique.stl': Internal fixture for components located beneath the drum.
 
  ### Protection Materials and Fasteners
  * **Brass sheets:** Applied to the external cylinder and the outer wall of the drum to prevent the mice from chewing through the PLA plastic.
